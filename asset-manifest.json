@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.791c4420.chunk.css",
+    "main.js": "/static/js/main.8203b5c9.chunk.js",
+    "main.js.map": "/static/js/main.8203b5c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f61b2a18.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f61b2a18.js.map",
+    "static/js/2.baaad278.chunk.js": "/static/js/2.baaad278.chunk.js",
+    "static/js/2.baaad278.chunk.js.map": "/static/js/2.baaad278.chunk.js.map",
+    "static/js/3.cb2c9296.chunk.js": "/static/js/3.cb2c9296.chunk.js",
+    "static/js/3.cb2c9296.chunk.js.map": "/static/js/3.cb2c9296.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.791c4420.chunk.css.map": "/static/css/main.791c4420.chunk.css.map",
+    "static/js/2.baaad278.chunk.js.LICENSE.txt": "/static/js/2.baaad278.chunk.js.LICENSE.txt",
+    "static/media/JibramAndDasom.409d6a4e.png": "/static/media/JibramAndDasom.409d6a4e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f61b2a18.js",
+    "static/js/2.baaad278.chunk.js",
+    "static/css/main.791c4420.chunk.css",
+    "static/js/main.8203b5c9.chunk.js"
+  ]
+}
